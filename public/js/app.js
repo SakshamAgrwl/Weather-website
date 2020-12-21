@@ -1,12 +1,3 @@
-console.log('Javascript file is loaded!')
-
-// fetch('https://puzzle.mead.io/puzzle').then((response) => {
-//     response.json().then((data) => {
-//         console.log(data)
-//     })
-// })
-
-
 const weatherForm = document.querySelector('form')
 //select the field where we are passing the value and get that value
 const search = document.querySelector('input')
